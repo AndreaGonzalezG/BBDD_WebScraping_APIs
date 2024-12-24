@@ -7,8 +7,8 @@ Los ejercicios se enfocan en el uso de las siguientes características:
 
 - `API's`:  solicitudes a API's, respuestas JSON e insersión de datos en BBDD.
 - `Web Scraping`: Extracción de datos de páginas web directamente, utilizando la biblioteca BeautifulSoup.
--`Selenium`: Automatización de interacción con sitios web utilizando Selenium.
--`SQL`: Extracción de datos de bases de datos relacionales. Consultas SQL utilizando queries avanzadas
+- `Selenium`: Automatización de interacción con sitios web utilizando Selenium.
+- `SQL`: Extracción de datos de bases de datos relacionales. Consultas en SQL utilizando queries avanzadas
 
 ## ✅ Programas utilizados
 Para ejecutar los ejercicios, necesitarás:
